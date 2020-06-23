@@ -109,7 +109,7 @@ header .navbar .logo {
 
 /* navigation */
 header .navbar {
-	padding:20px 0 25px;
+	padding: 20px 20px 20px;
 }
 
 .navbar .nav {
@@ -2536,5 +2536,8 @@ section#subintro{
 		height: 20px;
 	}
 
+	.container2 {
 		
+		margin-left: 10;
+	}
 	

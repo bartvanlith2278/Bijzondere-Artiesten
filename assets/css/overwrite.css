@@ -1470,7 +1470,7 @@ input[type="submit"].btn.btn-mini {
 
 .navbar-static-top {
   position: static;
-  margin-bottom: 0;
+  margin-bottom: -20px;
 }
 
 .navbar-static-top .navbar-inner {
